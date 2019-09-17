@@ -7,7 +7,7 @@
 3. Explain the difference between inline and block elements
 
 ## DOM syntax
-![Syntax](https://media.giphy.com/media/3o6MbkZSYy4mI3gLYc/giphy.gif)
+![Syntax](https://media.giphy.com/media/3o6MbkZSYy4mI3gLYc/giphy.gif)..
 
 When writing to the Document Object Model, DOM, we're do so in HTML, a markup
 language for web pages. DOM nodes represent all components that make up a web
